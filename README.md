@@ -52,7 +52,7 @@ A modern web application that weaves together technology and human experience:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuiranQaQ&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuiranQaQ&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuiranQaQ&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ## 🌙 Contact Me | 联系我
@@ -63,6 +63,9 @@ A modern web application that weaves together technology and human experience:
   </a>
   <a href="https://github.com/SuiranQaQ">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/susu_ovo">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
 
