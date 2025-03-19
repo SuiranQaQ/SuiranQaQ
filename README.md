@@ -30,7 +30,7 @@ I'm a Frontend Developer who sees beauty in clean code and elegant solutions. Th
 
 ## 🌟 Featured Projects | 精选项目
 
-### [Huawei Gift Project | 华为礼品项目](https://github.com/SuiranQaQ/huawei-gift)
+### Huawei Gift Project | 华为礼品项目
 > "Where technology meets human connection"
 > "科技与人文的交汇处"
 
@@ -52,7 +52,6 @@ A modern web application that weaves together technology and human experience:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuiranQaQ&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuiranQaQ&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ## 🌙 Contact Me | 联系我
